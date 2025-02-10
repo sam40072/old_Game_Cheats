@@ -6,3 +6,6 @@ Dale & Dawson Stationery Supplies / minhook
 
 # devour unlocker
 Unlocks items in devour / melonloader
+
+# stupidGamemo
+ChilloutVR cheat / melonloader
