@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stupidGamemod", "stupidGamemod\stupidGamemod.csproj", "{D44ACEB7-04B3-4421-B5CF-DAE66EF925FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44ACEB7-04B3-4421-B5CF-DAE66EF925FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44ACEB7-04B3-4421-B5CF-DAE66EF925FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44ACEB7-04B3-4421-B5CF-DAE66EF925FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44ACEB7-04B3-4421-B5CF-DAE66EF925FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8663216F-1B8F-4F7F-8F5C-74605D34ACFB}
+	EndGlobalSection
+EndGlobal
