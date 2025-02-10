@@ -1,0 +1,11 @@
+﻿  dllmain.cpp
+C:\Users\zonix\OneDrive\Desktop\coding\computing 2\lazy\lazy\dllmain.cpp(404,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  3 of 47 functions ( 6.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lazy.vcxproj -> C:\Users\zonix\OneDrive\Desktop\coding\computing 2\lazy\x64\Release\lazy.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
