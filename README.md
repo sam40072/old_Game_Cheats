@@ -3,3 +3,6 @@ I just wanted to dump some of my cheats I've been writing to learn how to make c
 
 # lazy
 Dale & Dawson Stationery Supplies / minhook
+
+# devour unlocker
+Unlocks item in devour
